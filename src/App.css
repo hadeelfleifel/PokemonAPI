@@ -1,0 +1,9 @@
+#navbar-example2 {
+    background-color: rgb(241, 236, 236) !important;
+}
+.App{
+    padding-top: 4rem;
+    /* min-height: 100vh; */
+    background: url(https://wallpaperaccess.com/full/229667.jpg)  fixed;
+
+}
